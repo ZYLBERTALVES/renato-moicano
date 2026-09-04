@@ -4,7 +4,7 @@ Página esportiva dedicada ao lutador Renato “Money” Moicano, desenvolvida c
 
 O projeto apresenta momentos marcantes da carreira do lutador em um layout editorial inspirado em páginas esportivas e de MMA.
 
-![Preview do projeto](imagens/FOTOPRINCIPALHERO.PNG)
+![Preview do projeto](imagem/FOTOPRINCIPALHERO.PNG)
 
 ## Tecnologias utilizadas
 
